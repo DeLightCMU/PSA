@@ -1,7 +1,7 @@
 # Polarized Self-Attention: Towards High-quality Pixel-wise Regression
 This is an official implementation of:
 
-**Huajun Liu, Fuqiang Liu, Xinyi Fan and Dong Huang** ***Polarized Self-Attention: Towards High-quality Pixel-wise Regression*** [Arxiv Version](https://arxiv.org/pdf/xxxx.pdf)
+**Huajun Liu, Fuqiang Liu, Xinyi Fan and Dong Huang** ***Polarized Self-Attention: Towards High-quality Pixel-wise Regression*** [Arxiv Version](https://arxiv.org/abs/2107.00782)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/polarized-self-attention-towards-high-quality/semantic-segmentation-on-cityscapes-val)](https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes-val?p=polarized-self-attention-towards-high-quality)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/polarized-self-attention-towards-high-quality/2d-human-pose-estimation-on-mscoco)](https://paperswithcode.com/sota/2d-human-pose-estimation-on-mscoco?p=polarized-self-attention-towards-high-quality)
