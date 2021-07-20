@@ -20,9 +20,20 @@ This is an official implementation of:
 
 ## Codes and Pre-trained models will be uploaded soon~
 
-#### Models pre-trained on Cityscapes (Table5 in the Arxiv version).
+#### Top-down 2D pose estimation models pre-trained on the MS-COCO keypoint task(Table4 in the Arxiv version).
  
-| Config File              | Backbone               | val mIoU | pth models |
+| Model Name              | Backbone              |Input Size | AP | pth file |
+| :----------------------: | :---------------------:| :--------------: || :--------------: | :------------:  |
+| UDP-Pose-PSA(p)     | HRNet-W48         |256x192 |78.9              | to be uploaded |
+| UDP-Pose-PSA(p)     | HRNet-W48         |384x288 |79.5             | to be uploaded |
+| UDP-Pose-PSA(s)     | HRNet-W48         |384x288 |79.4              |to be uploaded   |
+
+#### Semantic segmentation models pre-trained on Cityscapes (Table5 in the Arxiv version).
+ 
+| Model Name              | Backbone               | val mIoU | pth file |
 | :----------------------: | :---------------------:| :--------------: | :------------:  |
 | HRNetV2-OCR+PSA(p)     | HRNetV2-W48          |86.95              | [download](https://cmu.box.com/s/if90kw6r66q2y6c5xparflhnbwi6c2yi)  |
 | HRNetV2-OCR+PSA(s)     | HRNetV2-W48          |86.72              | [download](https://cmu.box.com/s/uyzzfmkx8p2ipcznpzdtf14ng63s65sq)   |
+
+
+
