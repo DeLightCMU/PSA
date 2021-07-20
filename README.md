@@ -24,5 +24,5 @@ This is an official implementation of:
  
 | Config File              | Backbone               | val mIoU | pth models |
 | :----------------------: | :---------------------:| :--------------: | :------------:  |
-| HRNetV2-OCR+PSA(p)     | HRNetV2-W48          |86.95              | [download](https://cmu.box.com/s/if90kw6r66q2y6c5xparflhnbwi6c2yi  |
+| HRNetV2-OCR+PSA(p)     | HRNetV2-W48          |86.95              | [download](https://cmu.box.com/s/if90kw6r66q2y6c5xparflhnbwi6c2yi)  |
 | HRNetV2-OCR+PSA(s)     | HRNetV2-W48          |86.72              | [download](https://cmu.box.com/s/uyzzfmkx8p2ipcznpzdtf14ng63s65sq)   |
