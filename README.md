@@ -1,7 +1,7 @@
 # Polarized Self-Attention: Towards High-quality Pixel-wise Regression
 This is an official implementation of:
 
-**Huajun Liu, Fuqiang Liu, Xinyi Fan and Dong Huang** ***Polarized Self-Attention: Towards High-quality Pixel-wise Regression*** [Arxiv Version](https://arxiv.org/abs/2107.00782)
+**Huajun Liu, Fuqiang Liu, Xinyi Fan and Dong Huang**. ***Polarized Self-Attention: Towards High-quality Pixel-wise Regression*** [Arxiv Version](https://arxiv.org/abs/2107.00782)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/polarized-self-attention-towards-high-quality-1/pose-estimation-on-coco-test-dev)](https://paperswithcode.com/sota/pose-estimation-on-coco-test-dev?p=polarized-self-attention-towards-high-quality-1)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/polarized-self-attention-towards-high-quality-1/keypoint-detection-on-coco)](https://paperswithcode.com/sota/keypoint-detection-on-coco?p=polarized-self-attention-towards-high-quality-1)
