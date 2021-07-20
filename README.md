@@ -23,7 +23,7 @@ This is an official implementation of:
 #### Top-down 2D pose estimation models pre-trained on the MS-COCO keypoint task(Table4 in the Arxiv version).
  
 | Model Name              | Backbone              |Input Size | AP | pth file |
-| :----------------------: | :---------------------:| :--------------: || :--------------: | :------------:  |
+| :----------------------: | :---------------------:| :--------------: | :--------------: | :------------:  |
 | UDP-Pose-PSA(p)     | HRNet-W48         |256x192 |78.9              | to be uploaded |
 | UDP-Pose-PSA(p)     | HRNet-W48         |384x288 |79.5             | to be uploaded |
 | UDP-Pose-PSA(s)     | HRNet-W48         |384x288 |79.4              |to be uploaded   |
